@@ -49,7 +49,7 @@
 .container__a_span {
     font-weight: 600;
     font-size: 24px;
-    line-height: 33px;
+    line-height: 32.68px;
     color: #222;
 }
 .container__list {
@@ -203,8 +203,7 @@
     font-size: 24px;
     line-height: 28.8px;
     margin-top: 0;
-    margin-bottom: 24px;
-    
+    margin-bottom: 24px;   
 }
 .services__list__item-text-wreppar {
     margin: 0;
